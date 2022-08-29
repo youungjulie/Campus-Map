@@ -1,6 +1,10 @@
 # EE 538 Final Project Report
 
-This project focus on create a map application of location around USC campus by implementing data structure and graph algorithm. 
+## TrojanMap
+
+This project focuses on using data structures in C++ and implementing various graph algorithms to build a map application.
+
+<p align="center"><img src="img/TrojanMap.png" alt="Trojan" width="500" /></p>
 
 ## Data Structure
 
